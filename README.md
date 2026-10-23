@@ -1,5 +1,6 @@
 # DS201.R11.2-LAB2
-**Sinh viên:** Đỗ Yến Nhi, MSSV 24521259
+**Sinh viên:** Đỗ Yến Nhi
+**MSSV:** 24521259
 
 Bài thực hành 2: Mạng neural tích chập (CNN). Notebook `LAB2_24521259.ipynb` gồm:
 
